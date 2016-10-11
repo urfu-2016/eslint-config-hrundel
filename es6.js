@@ -13,7 +13,7 @@ module.exports = {
   },
   rules: {
     'arrow-body-style': ['error', 'as-needed'],
-    'eslint arrow-parens': ['error', 'as-needed'],
+    'arrow-parens': ['error', 'as-needed'],
     'arrow-spacing': 'error',
     'constructor-super': 'error',
     'no-class-assign': 'error',
